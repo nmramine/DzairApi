@@ -9,7 +9,7 @@
 
 ## What can I get now?
 
-This version can get you information about wilaya surface and population and of course the name of the city using the code parameter.
+This version can get you information about wilaya surface(km²) and population and of course the name of the city using the code parameter.
 
 ## Basic usage
 ### Endpoints
